@@ -1,0 +1,264 @@
+,uniqueid,ward_id,ward_name,lga_id,ward_description,entered_by_user,date_entered,user_ip_address
+0,1,2,Aba - Unor,2,Aba - Unor,Bincom,,127.0.0.1
+1,2,8,Ejeme,2,Ejeme,Bincom,,127.0.0.1
+2,3,9,Isheagu - Ewulu,2,Isheagu - Ewulu,Bincom,,127.0.0.1
+3,4,7,Nsukwa,2,Nsukwa,Bincom,,127.0.0.1
+4,5,2,Ogwashi - Uku I,2,Ogwashi - Uku I,Bincom,,127.0.0.1
+5,6,3,Ogwashi - Uku Ii,2,Ogwashi - Uku Ii,Bincom,,127.0.0.1
+6,7,1,Ogwashi - Uku Village,2,Ogwashi - Uku Village,Bincom,,127.0.0.1
+7,8,4,Ubulu - Uku I,2,Ubulu - Uku I,Bincom,,127.0.0.1
+8,9,5,Ubulu - Uku Ii,2,Ubulu - Uku Ii,Bincom,,127.0.0.1
+9,10,6,Ubulu - Unor,2,Ubulu - Unor,Bincom,,127.0.0.1
+10,11,11,Ubulu Okiti,2,Ubulu Okiti,Bincom,,127.0.0.1
+11,12,10,Ezi,1,Ezi,Bincom,,127.0.0.1
+12,13,8,Idumuje - Unor,1,Idumuje - Unor,Bincom,,127.0.0.1
+13,14,5,Issele - Azagba,1,Issele - Azagba,Bincom,,127.0.0.1
+14,15,6,Issele Uku I,1,Issele Uku I,Bincom,,127.0.0.1
+15,16,7,Issele Uku Ii,1,Issele Uku Ii,Bincom,,127.0.0.1
+16,17,1,Obior,1,Obior,Bincom,,127.0.0.1
+17,18,3,Obomkpa,1,Obomkpa,Bincom,,127.0.0.1
+18,19,4,Onicha - Olona,1,Onicha - Olona,Bincom,,127.0.0.1
+19,20,2,Onicha Ugbo,1,Onicha Ugbo,Bincom,,127.0.0.1
+20,21,9,Ukwu - Nzu,1,Ukwu - Nzu,Bincom,,127.0.0.1
+21,22,0,Akugbene,31,Akugbene,Bincom,,127.0.0.1
+22,23,0,Akugbene Ii,31,Akugbene,Bincom,,127.0.0.1
+23,24,0,Akugbene Iii,31,Akugbene,Bincom,,127.0.0.1
+24,25,0,Bomadi,31,Akugbene,Bincom,,127.0.0.1
+25,26,0,Kolafiogbene / Ekametagbene,31,Akugbene,Bincom,,127.0.0.1
+26,27,0,Kpakiama,31,Akugbene,Bincom,,127.0.0.1
+27,28,0,Ogbeinama / Okoloba,31,Akugbene,Bincom,,127.0.0.1
+28,29,0,Ogo - Eze,31,Akugbene,Bincom,,127.0.0.1
+29,30,0,Ogriagene,31,Akugbene,Bincom,,127.0.0.1
+30,31,0,Syama,31,Akugbene,Bincom,,127.0.0.1
+31,32,0,Bolou - Ndoro,32,Akugbene,Bincom,,127.0.0.1
+32,33,0,Ngbilebiri,32,Akugbene,Bincom,,127.0.0.1
+33,34,0,Ngbilebiri Ii,32,Akugbene,Bincom,,127.0.0.1
+34,35,0,Obotebe,32,Akugbene,Bincom,,127.0.0.1
+35,36,0,Ogbolubiri,32,Akugbene,Bincom,,127.0.0.1
+36,37,0,Ogulagha,32,Akugbene,Bincom,,127.0.0.1
+37,38,0,Seimbiri,32,Akugbene,Bincom,,127.0.0.1
+38,39,0,Tamigbe,32,Akugbene,Bincom,,127.0.0.1
+39,40,0,Torugbene,32,Akugbene,Bincom,,127.0.0.1
+40,41,0,Tuomo,32,Akugbene,Bincom,,127.0.0.1
+41,42,1,Abraka I,5,Abraka I,Bincom,,127.0.0.1
+42,43,2,Abraka Ii,5,Abraka Ii,Bincom,,127.0.0.1
+43,44,3,Abraka Iii,5,Abraka Iii,Bincom,,127.0.0.1
+44,45,4,Agbon I,5,Agbon I,Bincom,,127.0.0.1
+45,46,5,Agbon Ii,5,Agbon Ii,Bincom,,127.0.0.1
+46,47,6,Agbon Iii,5,Agbon Iii,Bincom,,127.0.0.1
+47,48,7,Agbon Iv,5,Agbon Iv,Bincom,,127.0.0.1
+48,49,8,Agbon V,5,Agbon V,Bincom,,127.0.0.1
+49,50,9,Agbon Vi,5,Agbon Vi,Bincom,,127.0.0.1
+50,51,10,Agbon Vii,5,Agbon Vii,Bincom,,127.0.0.1
+51,52,11,Agbon Viii,5,Agbon Viii,Bincom,,127.0.0.1
+52,53,3,Jesse I,6,Jesse I,Bincom,,127.0.0.1
+53,54,4,Jesse Ii,6,Jesse Ii,Bincom,,127.0.0.1
+54,55,5,Jesse Iii,6,Jesse Iii,Bincom,,127.0.0.1
+55,56,6,Jesse Iv,6,Jesse Iv,Bincom,,127.0.0.1
+56,57,1,Mosogar I,6,Mosogar I,Bincom,,127.0.0.1
+57,58,2,Mosogar Ii,6,Mosogar Ii,Bincom,,127.0.0.1
+58,59,7,Oghara I,6,Oghara I,Bincom,,127.0.0.1
+59,60,8,Oghara Ii,6,Oghara Ii,Bincom,,127.0.0.1
+60,61,9,Oghara Iii,6,Oghara Iii,Bincom,,127.0.0.1
+61,62,10,Oghara Iv,6,Oghara Iv,Bincom,,127.0.0.1
+62,63,11,Oghara V,6,Oghara V,Bincom,,127.0.0.1
+63,64,10,Abavo I,8,Abavo I,Bincom,,127.0.0.1
+64,65,11,Abavo Ii,8,Abavo Ii,Bincom,,127.0.0.1
+65,66,12,Abavo Iii,8,Abavo Iii,Bincom,,127.0.0.1
+66,67,1,Agbor Town I,8,Agbor Town I,Bincom,,127.0.0.1
+67,68,2,Agbor Town Ii,8,Agbor Town Ii,Bincom,,127.0.0.1
+68,69,7,Boji - Boji I,8,Boji - Boji I,Bincom,,127.0.0.1
+69,70,8,Boji - Boji Ii,8,Boji - Boji Ii,Bincom,,127.0.0.1
+70,71,9,Boji - Boji Iii,8,Boji - Boji Iii,Bincom,,127.0.0.1
+71,72,5,Ekuku - Agbor,8,Ekuku - Agbor,Bincom,,127.0.0.1
+72,73,4,Ihiuiyase I,8,Ihiuiyase I,Bincom,,127.0.0.1
+73,74,6,Ihuiyase Ii,8,Ihuiyase Ii,Bincom,,127.0.0.1
+74,75,3,Ihuozomor ( Ozanogogo Alisimie ),8,Ihuozomor ( Ozanogogo Alisimie ),Bincom,,127.0.0.1
+75,76,7,Akumazi,7,Akumazi,Bincom,,127.0.0.1
+76,77,10,Idumuesah,7,Idumuesah,Bincom,,127.0.0.1
+77,78,8,Igbodo,7,Igbodo,Bincom,,127.0.0.1
+78,79,12,Mbiri,7,Mbiri,Bincom,,127.0.0.1
+79,80,14,Otolokpo,7,Otolokpo,Bincom,,127.0.0.1
+80,81,5,Owa V,7,Owa V,Bincom,,127.0.0.1
+81,82,6,Owa Vi,7,Owa Vi,Bincom,,127.0.0.1
+82,83,1,Owa I,7,Owa I,Bincom,,127.0.0.1
+83,84,2,Owa Ii,7,Owa Ii,Bincom,,127.0.0.1
+84,85,3,Owa Iii,7,Owa Iii,Bincom,,127.0.0.1
+85,86,4,Owa Iv,7,Owa Iv,Bincom,,127.0.0.1
+86,87,11,Umunede,7,Umunede,Bincom,,127.0.0.1
+87,88,13,Ute - Ogbeje,7,Ute - Ogbeje,Bincom,,127.0.0.1
+88,89,9,Ute - Okpu,7,Ute - Okpu,Bincom,,127.0.0.1
+89,90,3,Ellu,9,Ellu,Bincom,,127.0.0.1
+90,91,4,Emevor,9,Emevor,Bincom,,127.0.0.1
+91,92,5,Iluelogbo,9,Iluelogbo,Bincom,,127.0.0.1
+92,93,1,Iyede I,9,Iyede I,Bincom,,127.0.0.1
+93,94,2,Iyede Ii,9,Iyede Ii,Bincom,,127.0.0.1
+94,95,8,Okpe - Isoko,9,Okpe - Isoko,Bincom,,127.0.0.1
+95,96,13,Otibio,9,Otibio,Bincom,,127.0.0.1
+96,97,7,Ovrode,9,Ovrode,Bincom,,127.0.0.1
+97,98,6,Owhe / Akiehwe,9,Owhe / Akiehwe,Bincom,,127.0.0.1
+98,99,12,Oyede,9,Oyede,Bincom,,127.0.0.1
+99,100,9,Ozoro I,9,Ozoro I,Bincom,,127.0.0.1
+100,101,10,Ozoro Ii,9,Ozoro Ii,Bincom,,127.0.0.1
+101,102,11,Ozoro Iii,9,Ozoro Iii,Bincom,,127.0.0.1
+102,103,3,Aviara,10,Aviara,Bincom,,127.0.0.1
+103,104,5,Emede,10,Emede,Bincom,,127.0.0.1
+104,105,9,Enhwe / Okpolo,10,Enhwe / Okpolo,Bincom,,127.0.0.1
+105,106,8,Erowa / Umeh,10,Erowa / Umeh,Bincom,,127.0.0.1
+106,107,7,Igbide,10,Igbide,Bincom,,127.0.0.1
+107,108,11,Irri Ii,10,Irri Ii,Bincom,,127.0.0.1
+108,109,10,Irri I,10,Irri I,Bincom,,127.0.0.1
+109,110,1,Oleh I,10,Oleh I,Bincom,,127.0.0.1
+110,111,2,Oleh Ii,10,Oleh Ii,Bincom,,127.0.0.1
+111,112,6,Olomoro,10,Olomoro,Bincom,,127.0.0.1
+112,113,4,Uzere,10,Uzere,Bincom,,127.0.0.1
+113,114,3,Abarra / Inyi / Onuaboh,11,Abarra / Inyi / Onuaboh,Bincom,,127.0.0.1
+114,115,5,Aboh / Akarrai,11,Aboh / Akarrai,Bincom,,127.0.0.1
+115,116,2,Afor / Obikwele,11,Afor / Obikwele,Bincom,,127.0.0.1
+116,117,7,Ase,11,Ase,Bincom,,127.0.0.1
+117,118,10,Ashaka,11,Ashaka,Bincom,,127.0.0.1
+118,119,8,Ibedeni,11,Ibedeni,Bincom,,127.0.0.1
+119,120,9,Ibrede / Igbuku / Onogbokor,11,Ibrede / Igbuku / Onogbokor,Bincom,,127.0.0.1
+120,121,4,Okpai / Utchi / Beneku,11,Okpai / Utchi / Beneku,Bincom,,127.0.0.1
+121,122,6,Onyia / Adiai / Otuoku / Umuolu,11,Onyia / Adiai / Otuoku / Umuolu,Bincom,,127.0.0.1
+122,123,1,Ossissa,11,Ossissa,Bincom,,127.0.0.1
+123,124,9,Abbi Ii,12,Abbi Ii,Bincom,,127.0.0.1
+124,125,8,Abbi I,12,Abbi I,Bincom,,127.0.0.1
+125,126,10,Emu,12,Emu,Bincom,,127.0.0.1
+126,127,6,Ogume I,12,Ogume I,Bincom,,127.0.0.1
+127,128,7,Ogume Ii,12,Ogume Ii,Bincom,,127.0.0.1
+128,129,5,Onicha - Ukwani,12,Onicha - Ukwani,Bincom,,127.0.0.1
+129,130,1,Utagba Ogbe,12,Utagba Ogbe,Bincom,,127.0.0.1
+130,131,2,Utagba Uno I,12,Utagba Uno I,Bincom,,127.0.0.1
+131,132,3,Utagba Uno Ii,12,Utagba Uno Ii,Bincom,,127.0.0.1
+132,133,4,Utagba Uno Iii,12,Utagba Uno Iii,Bincom,,127.0.0.1
+133,134,5,Aghalokpe,13,Aghalokpe,Bincom,,127.0.0.1
+134,135,6,Aragba Town,13,Aragba Town,Bincom,,127.0.0.1
+135,136,7,Mereje I,13,Mereje I,Bincom,,127.0.0.1
+136,137,8,Mereje Ii,13,Mereje Ii,Bincom,,127.0.0.1
+137,138,9,Mereje Iii,13,Mereje Iii,Bincom,,127.0.0.1
+138,139,3,Oha I,13,Oha I,Bincom,,127.0.0.1
+139,140,4,Oha Ii,13,Oha Ii,Bincom,,127.0.0.1
+140,141,1,Orerokpe,13,Orerokpe,Bincom,,127.0.0.1
+141,142,2,Oviri - Okpe,13,Oviri - Okpe,Bincom,,127.0.0.1
+142,143,10,Ughoton,13,Ughoton,Bincom,,127.0.0.1
+143,144,1,Akwukwu,14,Akwukwu,Bincom,,127.0.0.1
+144,145,2,Ebu,14,Ebu,Bincom,,127.0.0.1
+145,146,4,Ibusa I,14,Ibusa I,Bincom,,127.0.0.1
+146,147,5,Ibusa Ii,14,Ibusa Ii,Bincom,,127.0.0.1
+147,148,6,Ibusa Iii,14,Ibusa Iii,Bincom,,127.0.0.1
+148,149,7,Ibusa Iv,14,Ibusa Iv,Bincom,,127.0.0.1
+149,150,8,Ibusa V,14,Ibusa V,Bincom,,127.0.0.1
+150,151,3,Illah,14,Illah,Bincom,,127.0.0.1
+151,152,9,Okpanam,14,Okpanam,Bincom,,127.0.0.1
+152,153,10,Ukala,14,Ukala,Bincom,,127.0.0.1
+153,154,7,Agu,15,Agu,Bincom,,127.0.0.1
+154,155,2,Anala - Amakom,15,Anala - Amakom,Bincom,,127.0.0.1
+155,156,10,Cable Point I,15,Cable Point I,Bincom,,127.0.0.1
+156,157,11,Cable Point Ii,15,Cable Point Ii,Bincom,,127.0.0.1
+157,158,1,Ogbele / Akpako,15,Ogbele / Akpako,Bincom,,127.0.0.1
+158,159,3,Okwe,15,Okwe,Bincom,,127.0.0.1
+159,160,7,Ugbomanta Quarters,15,Ugbomanta Quarters,Bincom,,127.0.0.1
+160,161,5,Umuaji,15,Umuaji,Bincom,,127.0.0.1
+161,162,4,Umuezei,15,Umuezei,Bincom,,127.0.0.1
+162,163,6,Umuonaje,15,Umuonaje,Bincom,,127.0.0.1
+163,164,9,West End,15,West End,Bincom,,127.0.0.1
+164,165,1,Abari,16,Abari,Bincom,,127.0.0.1
+165,166,4,Agoloma,16,Agoloma,Bincom,,127.0.0.1
+166,167,8,Bolou - Angiama,16,Bolou - Angiama,Bincom,,127.0.0.1
+167,168,10,Odorubu / Adobu / Bolou Apelebri,16,Odorubu / Adobu / Bolou Apelebri,Bincom,,127.0.0.1
+168,169,5,Patani Ii,16,Patani Ii,Bincom,,127.0.0.1
+169,170,6,Patani Iii,16,Patani Iii,Bincom,,127.0.0.1
+170,171,2,Patani I,16,Patani I,Bincom,,127.0.0.1
+171,172,3,Taware / Kolowara Aven,16,Taware / Kolowara Aven,Bincom,,127.0.0.1
+172,173,7,Toru - Angiama,16,Toru - Angiama,Bincom,,127.0.0.1
+173,174,9,Uduophori,16,Uduophori,Bincom,,127.0.0.1
+174,175,9,Amuokpe,17,Amuokpe,Bincom,,127.0.0.1
+175,176,3,Sapele Urban Iii,17,Sapele Urban Iii,Bincom,,127.0.0.1
+176,177,4,Sapele Urban Iv,17,Sapele Urban Iv,Bincom,,127.0.0.1
+177,178,5,Sapele Urban V,17,Sapele Urban V,Bincom,,127.0.0.1
+178,179,6,Sapele Urban Vi,17,Sapele Urban Vi,Bincom,,127.0.0.1
+179,180,7,Sapele Urban Vii,17,Sapele Urban Vii,Bincom,,127.0.0.1
+180,181,8,Sapele Urban Viii,17,Sapele Urban Viii,Bincom,,127.0.0.1
+181,182,1,Sapele Urban I,17,Sapele Urban I,Bincom,,127.0.0.1
+182,183,2,Sapele Urban Ii,17,Sapele Urban Ii,Bincom,,127.0.0.1
+183,184,10,Aladja,18,Aladja,Bincom,,127.0.0.1
+184,185,6,Ekete,18,Ekete,Bincom,,127.0.0.1
+185,186,5,Opete / Assagba / Edjophe,18,Opete / Assagba / Edjophe,Bincom,,127.0.0.1
+186,187,9,Orhuwerun,18,Orhuwerun,Bincom,,127.0.0.1
+187,188,7,Ovwian I,18,Ovwian I,Bincom,,127.0.0.1
+188,189,8,Ovwian Ii,18,Ovwian Ii,Bincom,,127.0.0.1
+189,190,1,Udu I,18,Udu I,Bincom,,127.0.0.1
+190,191,2,Udu Ii,18,Udu Ii,Bincom,,127.0.0.1
+191,192,3,Udu Iii,18,Udu Iii,Bincom,,127.0.0.1
+192,193,4,Udu Iv,18,Udu Iv,Bincom,,127.0.0.1
+193,194,1,Agbarha,19,Agbarha,Bincom,,127.0.0.1
+194,195,10,Agbarho I,19,Agbarho I,Bincom,,127.0.0.1
+195,196,11,Agbarho Ii,19,Agbarho Ii,Bincom,,127.0.0.1
+196,197,8,Evwreni,19,Evwreni,Bincom,,127.0.0.1
+197,198,2,Ogor,19,Ogor,Bincom,,127.0.0.1
+198,199,3,Orogun I,19,Orogun I,Bincom,,127.0.0.1
+199,200,4,Orogun Ii,19,Orogun Ii,Bincom,,127.0.0.1
+200,201,5,Ughelli I,19,Ughelli I,Bincom,,127.0.0.1
+201,202,6,Ughelli Ii,19,Ughelli Ii,Bincom,,127.0.0.1
+202,203,7,Ughelli Iii,19,Ughelli Iii,Bincom,,127.0.0.1
+203,204,9,Uwheru,19,Uwheru,Bincom,,127.0.0.1
+204,205,6,Effurun - Otor,20,Effurun - Otor,Bincom,,127.0.0.1
+205,206,7,Ekakpamre,20,Ekakpamre,Bincom,,127.0.0.1
+206,207,8,Jeremi I,20,Jeremi I,Bincom,,127.0.0.1
+207,208,9,Jeremi Ii,20,Jeremi Ii,Bincom,,127.0.0.1
+208,209,10,Jeremi Iii,20,Jeremi Iii,Bincom,,127.0.0.1
+209,210,4,Olomu I,20,Olomu I,Bincom,,127.0.0.1
+210,211,5,Olomu Ii,20,Olomu Ii,Bincom,,127.0.0.1
+211,212,2,Akoku,21,Akoku,Bincom,,127.0.0.1
+212,213,6,Amai,21,Amai,Bincom,,127.0.0.1
+213,214,3,Ebedei,21,Ebedei,Bincom,,127.0.0.1
+214,215,5,Eziokpor,21,Eziokpor,Bincom,,127.0.0.1
+215,216,6,Ezionum,21,Ezionum,Bincom,,127.0.0.1
+216,217,9,Obiaruku I,21,Obiaruku I,Bincom,,127.0.0.1
+217,218,10,Obiaruku Ii,21,Obiaruku Ii,Bincom,,127.0.0.1
+218,219,8,Umuebu,21,Umuebu,Bincom,,127.0.0.1
+219,220,4,Umukwata,21,Umukwata,Bincom,,127.0.0.1
+220,221,1,Umutu,21,Umutu,Bincom,,127.0.0.1
+221,222,8,Army Barracks Area,22,Army Barracks Area,Bincom,,127.0.0.1
+222,223,1,Effurun I,22,Effurun I,Bincom,,127.0.0.1
+223,224,2,Effurun Ii,22,Effurun Ii,Bincom,,127.0.0.1
+224,225,9,Ekpan I,22,Ekpan I,Bincom,,127.0.0.1
+225,226,12,Ekpan Ii,22,Ekpan Ii,Bincom,,127.0.0.1
+226,227,3,Enerhen I,22,Enerhen I,Bincom,,127.0.0.1
+227,228,4,Enerhen Ii,22,Enerhen Ii,Bincom,,127.0.0.1
+228,229,7,Ugbomro / Ugbolokposo,22,Ugbomro / Ugbolokposo,Bincom,,127.0.0.1
+229,230,5,Ugborikoko,22,Ugborikoko,Bincom,,127.0.0.1
+230,231,6,Ugboroke,22,Ugboroke,Bincom,,127.0.0.1
+231,232,0,Ebrohimi,33,Ebrohimi,Bincom,,127.0.0.1
+232,233,0,Eghoro,33,Eghoro,Bincom,,127.0.0.1
+233,234,0,Gbokoda,33,Gbokoda,Bincom,,127.0.0.1
+234,235,0,Isekelewu ( Egbema Ii ),33,Isekelewu ( Egbema Ii ),Bincom,,127.0.0.1
+235,236,0,Koko I,33,Koko I,Bincom,,127.0.0.1
+236,237,0,Koko Ii,33,Koko Ii,Bincom,,127.0.0.1
+237,238,0,Ogbinbiri,33,Ogbinbiri,Bincom,,127.0.0.1
+238,239,0,Ogbudugudu ( Egbema Iv ),33,Ogbudugudu ( Egbema Iv ),Bincom,,127.0.0.1
+239,240,0,Ogheye,33,Ogheye,Bincom,,127.0.0.1
+240,241,0,Opuama,33,Opuama,Bincom,,127.0.0.1
+241,242,0,Bowen,34,Bowen,Bincom,,127.0.0.1
+242,243,0,Edjeba,34,Edjeba,Bincom,,127.0.0.1
+243,244,0,G.r.a,34,G.r.a,Bincom,,127.0.0.1
+244,245,0,Igbudu,34,Igbudu,Bincom,,127.0.0.1
+245,246,0,Obodo / Omadino,34,Obodo / Omadino,Bincom,,127.0.0.1
+246,247,0,Ode - Itsekiri,34,Ode - Itsekiri,Bincom,,127.0.0.1
+247,248,0,Ogunu / Ekurede - Urhobo,34,Ogunu / Ekurede - Urhobo,Bincom,,127.0.0.1
+248,249,0,Okere,34,Okere,Bincom,,127.0.0.1
+249,250,0,Okumagba,34,Okumagba,Bincom,,127.0.0.1
+250,251,0,Okumagba Ii,34,Okumagba Ii,Bincom,,127.0.0.1
+251,252,0,Pessu,34,Pessu,Bincom,,127.0.0.1
+252,253,0,Ugbuwangue / Ekurede - Itsekiri,34,Ugbuwangue / Ekurede - Itsekiri,Bincom,,127.0.0.1
+253,254,0,Aja - Udaibo,35,Aja - Udaibo,Bincom,,127.0.0.1
+254,255,0,Akpikpa,35,Akpikpa,Bincom,,127.0.0.1
+255,256,0,Gbaramatu,35,Gbaramatu,Bincom,,127.0.0.1
+256,257,0,Isaba,35,Isaba,Bincom,,127.0.0.1
+257,258,0,Madangho,35,Madangho,Bincom,,127.0.0.1
+258,259,0,Ogbe - Ijoh,35,Ogbe - Ijoh,Bincom,,127.0.0.1
+259,260,0,Ogidigben,35,Ogidigben,Bincom,,127.0.0.1
+260,261,0,Oporoza,35,Oporoza,Bincom,,127.0.0.1
+261,262,0,Orere,35,Orere,Bincom,,127.0.0.1
+262,263,0,Ugborodo,35,Ugborodo,Bincom,,127.0.0.1

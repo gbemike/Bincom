@@ -1,0 +1,291 @@
+,lga_name,lga_description,party_score,party_abbreviation
+0,Aniocha North,Aniocha North,802,PDP
+1,Aniocha North,Aniocha North,719,DPP
+2,Aniocha North,Aniocha North,416,ACN
+3,Aniocha North,Aniocha North,939,PPA
+4,Aniocha North,Aniocha North,394,CDC
+5,Aniocha North,Aniocha North,99,JP
+6,Aniocha - South,Aniocha - South,853,PDP
+7,Aniocha - South,Aniocha - South,745,DPP
+8,Aniocha - South,Aniocha - South,804,ACN
+9,Aniocha - South,Aniocha - South,542,PPA
+10,Aniocha - South,Aniocha - South,246,CDC
+11,Aniocha - South,Aniocha - South,555,JP
+12,Aniocha - South,Aniocha - South,995,ANPP
+13,Ethiope West,Ethiope West,853,PDP
+14,Ethiope West,Ethiope West,745,DPP
+15,Ethiope West,Ethiope West,804,ACN
+16,Ethiope West,Ethiope West,542,PPA
+17,Ethiope West,Ethiope West,246,CDC
+18,Ethiope West,Ethiope West,555,JP
+19,Ethiope West,Ethiope West,995,ANPP
+20,Ethiope West,Ethiope West,802,PDP
+21,Ethiope West,Ethiope West,719,DPP
+22,Ethiope West,Ethiope West,416,ACN
+23,Ethiope West,Ethiope West,939,PPA
+24,Ethiope West,Ethiope West,394,CDC
+25,Ethiope West,Ethiope West,99,JP
+26,Ethiope West,Ethiope West,306,PDP
+27,Ethiope West,Ethiope West,1019,DPP
+28,Ethiope West,Ethiope West,1039,ACN
+29,Ethiope West,Ethiope West,1046,PPA
+30,Ethiope West,Ethiope West,83,CDC
+31,Ethiope West,Ethiope West,229,JP
+32,Ethiope West,Ethiope West,306,PDP
+33,Ethiope West,Ethiope West,1019,DPP
+34,Ethiope West,Ethiope West,1039,ACN
+35,Ethiope West,Ethiope West,1046,PPA
+36,Ethiope West,Ethiope West,83,CDC
+37,Ethiope West,Ethiope West,229,JP
+38,Oshimili - South,Oshimili - South,1178,PDP
+39,Oshimili - South,Oshimili - South,129,DPP
+40,Oshimili - South,Oshimili - South,406,ACN
+41,Oshimili - South,Oshimili - South,614,PPA
+42,Oshimili - South,Oshimili - South,794,CDC
+43,Oshimili - South,Oshimili - South,82,JP
+44,Oshimili - South,Oshimili - South,981,ANPP
+45,Oshimili - South,Oshimili - South,596,LABO
+46,Oshimili - South,Oshimili - South,285,PDP
+47,Oshimili - South,Oshimili - South,1254,DPP
+48,Oshimili - South,Oshimili - South,1032,ACN
+49,Oshimili - South,Oshimili - South,179,PPA
+50,Oshimili - South,Oshimili - South,752,CDC
+51,Oshimili - South,Oshimili - South,172,JP
+52,Oshimili - South,Oshimili - South,621,PDP
+53,Oshimili - South,Oshimili - South,637,DPP
+54,Oshimili - South,Oshimili - South,916,ACN
+55,Oshimili - South,Oshimili - South,621,PPA
+56,Oshimili - South,Oshimili - South,306,CDC
+57,Oshimili - South,Oshimili - South,617,JP
+58,Oshimili - South,Oshimili - South,802,PDP
+59,Oshimili - South,Oshimili - South,719,DPP
+60,Oshimili - South,Oshimili - South,416,ACN
+61,Oshimili - South,Oshimili - South,939,PPA
+62,Oshimili - South,Oshimili - South,394,CDC
+63,Oshimili - South,Oshimili - South,99,JP
+64,Oshimili - South,Oshimili - South,561,PDP
+65,Oshimili - South,Oshimili - South,482,DPP
+66,Oshimili - South,Oshimili - South,298,ACN
+67,Oshimili - South,Oshimili - South,833,PPA
+68,Oshimili - South,Oshimili - South,221,CDC
+69,Oshimili - South,Oshimili - South,557,JP
+70,Oshimili - South,Oshimili - South,236,PDP
+71,Oshimili - South,Oshimili - South,1305,DPP
+72,Oshimili - South,Oshimili - South,567,ACN
+73,Oshimili - South,Oshimili - South,624,PPA
+74,Oshimili - South,Oshimili - South,375,CDC
+75,Oshimili - South,Oshimili - South,952,JP
+76,Oshimili - South,Oshimili - South,583,ANPP
+77,Oshimili - South,Oshimili - South,1012,LABO
+78,Oshimili - South,Oshimili - South,287,PDP
+79,Oshimili - South,Oshimili - South,426,DPP
+80,Oshimili - South,Oshimili - South,113,ACN
+81,Oshimili - South,Oshimili - South,960,PPA
+82,Oshimili - South,Oshimili - South,409,CDC
+83,Oshimili - South,Oshimili - South,117,JP
+84,Oshimili - South,Oshimili - South,349,ANPP
+85,Oshimili - South,Oshimili - South,139,LABO
+86,Sapele,Sapele,802,PDP
+87,Sapele,Sapele,719,DPP
+88,Sapele,Sapele,416,ACN
+89,Sapele,Sapele,939,PPA
+90,Sapele,Sapele,394,CDC
+91,Sapele,Sapele,99,JP
+92,Ukwuani,Ukwuani,853,PDP
+93,Ukwuani,Ukwuani,745,DPP
+94,Ukwuani,Ukwuani,804,ACN
+95,Ukwuani,Ukwuani,542,PPA
+96,Ukwuani,Ukwuani,246,CDC
+97,Ukwuani,Ukwuani,555,JP
+98,Ukwuani,Ukwuani,995,ANPP
+99,Ukwuani,Ukwuani,621,PDP
+100,Ukwuani,Ukwuani,637,DPP
+101,Ukwuani,Ukwuani,916,ACN
+102,Ukwuani,Ukwuani,621,PPA
+103,Ukwuani,Ukwuani,306,CDC
+104,Ukwuani,Ukwuani,617,JP
+105,Uvwie,Uvwie,1178,PDP
+106,Uvwie,Uvwie,129,DPP
+107,Uvwie,Uvwie,406,ACN
+108,Uvwie,Uvwie,614,PPA
+109,Uvwie,Uvwie,794,CDC
+110,Uvwie,Uvwie,82,JP
+111,Uvwie,Uvwie,981,ANPP
+112,Uvwie,Uvwie,596,LABO
+113,Uvwie,Uvwie,1178,PDP
+114,Uvwie,Uvwie,129,DPP
+115,Uvwie,Uvwie,406,ACN
+116,Uvwie,Uvwie,614,PPA
+117,Uvwie,Uvwie,794,CDC
+118,Uvwie,Uvwie,82,JP
+119,Uvwie,Uvwie,981,ANPP
+120,Uvwie,Uvwie,596,LABO
+121,Uvwie,Uvwie,853,PDP
+122,Uvwie,Uvwie,745,DPP
+123,Uvwie,Uvwie,804,ACN
+124,Uvwie,Uvwie,542,PPA
+125,Uvwie,Uvwie,246,CDC
+126,Uvwie,Uvwie,555,JP
+127,Uvwie,Uvwie,995,ANPP
+128,Uvwie,Uvwie,621,PDP
+129,Uvwie,Uvwie,637,DPP
+130,Uvwie,Uvwie,916,ACN
+131,Uvwie,Uvwie,621,PPA
+132,Uvwie,Uvwie,306,CDC
+133,Uvwie,Uvwie,617,JP
+134,Uvwie,Uvwie,802,PDP
+135,Uvwie,Uvwie,719,DPP
+136,Uvwie,Uvwie,416,ACN
+137,Uvwie,Uvwie,939,PPA
+138,Uvwie,Uvwie,394,CDC
+139,Uvwie,Uvwie,99,JP
+140,Uvwie,Uvwie,802,PDP
+141,Uvwie,Uvwie,719,DPP
+142,Uvwie,Uvwie,416,ACN
+143,Uvwie,Uvwie,939,PPA
+144,Uvwie,Uvwie,394,CDC
+145,Uvwie,Uvwie,99,JP
+146,Uvwie,Uvwie,480,PDP
+147,Uvwie,Uvwie,854,DPP
+148,Uvwie,Uvwie,433,ACN
+149,Uvwie,Uvwie,181,PPA
+150,Uvwie,Uvwie,560,CDC
+151,Uvwie,Uvwie,205,JP
+152,Uvwie,Uvwie,295,ANPP
+153,Uvwie,Uvwie,805,LABO
+154,Uvwie,Uvwie,92,CPP
+155,Bomadi,Bomadi,1178,PDP
+156,Bomadi,Bomadi,129,DPP
+157,Bomadi,Bomadi,406,ACN
+158,Bomadi,Bomadi,614,PPA
+159,Bomadi,Bomadi,794,CDC
+160,Bomadi,Bomadi,82,JP
+161,Bomadi,Bomadi,981,ANPP
+162,Bomadi,Bomadi,596,LABO
+163,Bomadi,Bomadi,285,PDP
+164,Bomadi,Bomadi,1254,DPP
+165,Bomadi,Bomadi,1032,ACN
+166,Bomadi,Bomadi,179,PPA
+167,Bomadi,Bomadi,752,CDC
+168,Bomadi,Bomadi,172,JP
+169,Bomadi,Bomadi,621,PDP
+170,Bomadi,Bomadi,637,DPP
+171,Bomadi,Bomadi,916,ACN
+172,Bomadi,Bomadi,621,PPA
+173,Bomadi,Bomadi,306,CDC
+174,Bomadi,Bomadi,617,JP
+175,Bomadi,Bomadi,802,PDP
+176,Bomadi,Bomadi,719,DPP
+177,Bomadi,Bomadi,416,ACN
+178,Bomadi,Bomadi,939,PPA
+179,Bomadi,Bomadi,394,CDC
+180,Bomadi,Bomadi,99,JP
+181,Bomadi,Bomadi,306,PDP
+182,Bomadi,Bomadi,1019,DPP
+183,Bomadi,Bomadi,1039,ACN
+184,Bomadi,Bomadi,1046,PPA
+185,Bomadi,Bomadi,83,CDC
+186,Bomadi,Bomadi,229,JP
+187,Bomadi,Bomadi,561,PDP
+188,Bomadi,Bomadi,482,DPP
+189,Bomadi,Bomadi,298,ACN
+190,Bomadi,Bomadi,833,PPA
+191,Bomadi,Bomadi,221,CDC
+192,Bomadi,Bomadi,557,JP
+193,Bomadi,Bomadi,236,PDP
+194,Bomadi,Bomadi,1305,DPP
+195,Bomadi,Bomadi,567,ACN
+196,Bomadi,Bomadi,624,PPA
+197,Bomadi,Bomadi,375,CDC
+198,Bomadi,Bomadi,952,JP
+199,Bomadi,Bomadi,583,ANPP
+200,Bomadi,Bomadi,1012,LABO
+201,Bomadi,Bomadi,287,PDP
+202,Bomadi,Bomadi,426,DPP
+203,Bomadi,Bomadi,113,ACN
+204,Bomadi,Bomadi,960,PPA
+205,Bomadi,Bomadi,409,CDC
+206,Bomadi,Bomadi,117,JP
+207,Bomadi,Bomadi,349,ANPP
+208,Bomadi,Bomadi,139,LABO
+209,Bomadi,Bomadi,480,PDP
+210,Bomadi,Bomadi,854,DPP
+211,Bomadi,Bomadi,433,ACN
+212,Bomadi,Bomadi,181,PPA
+213,Bomadi,Bomadi,560,CDC
+214,Bomadi,Bomadi,205,JP
+215,Bomadi,Bomadi,295,ANPP
+216,Bomadi,Bomadi,805,LABO
+217,Bomadi,Bomadi,92,CPP
+218,Bomadi,Bomadi,1009,PDP
+219,Bomadi,Bomadi,499,DPP
+220,Bomadi,Bomadi,580,ACN
+221,Bomadi,Bomadi,487,PPA
+222,Bomadi,Bomadi,644,CDC
+223,Bomadi,Bomadi,709,JP
+224,Bomadi,Bomadi,561,ANPP
+225,Bomadi,Bomadi,627,LABO
+226,Warri South,Warri South,853,PDP
+227,Warri South,Warri South,745,DPP
+228,Warri South,Warri South,804,ACN
+229,Warri South,Warri South,542,PPA
+230,Warri South,Warri South,246,CDC
+231,Warri South,Warri South,555,JP
+232,Warri South,Warri South,995,ANPP
+233,Warri South,Warri South,853,PDP
+234,Warri South,Warri South,745,DPP
+235,Warri South,Warri South,804,ACN
+236,Warri South,Warri South,542,PPA
+237,Warri South,Warri South,246,CDC
+238,Warri South,Warri South,555,JP
+239,Warri South,Warri South,995,ANPP
+240,Warri South,Warri South,285,PDP
+241,Warri South,Warri South,1254,DPP
+242,Warri South,Warri South,1032,ACN
+243,Warri South,Warri South,179,PPA
+244,Warri South,Warri South,752,CDC
+245,Warri South,Warri South,172,JP
+246,Warri South,Warri South,306,PDP
+247,Warri South,Warri South,1019,DPP
+248,Warri South,Warri South,1039,ACN
+249,Warri South,Warri South,1046,PPA
+250,Warri South,Warri South,83,CDC
+251,Warri South,Warri South,229,JP
+252,Warri South,Warri South,306,PDP
+253,Warri South,Warri South,1019,DPP
+254,Warri South,Warri South,1039,ACN
+255,Warri South,Warri South,1046,PPA
+256,Warri South,Warri South,83,CDC
+257,Warri South,Warri South,229,JP
+258,Warri South West,Warri South West,285,PDP
+259,Warri South West,Warri South West,1254,DPP
+260,Warri South West,Warri South West,1032,ACN
+261,Warri South West,Warri South West,179,PPA
+262,Warri South West,Warri South West,752,CDC
+263,Warri South West,Warri South West,172,JP
+264,Warri South West,Warri South West,621,PDP
+265,Warri South West,Warri South West,637,DPP
+266,Warri South West,Warri South West,916,ACN
+267,Warri South West,Warri South West,621,PPA
+268,Warri South West,Warri South West,306,CDC
+269,Warri South West,Warri South West,617,JP
+270,Warri South West,Warri South West,802,PDP
+271,Warri South West,Warri South West,719,DPP
+272,Warri South West,Warri South West,416,ACN
+273,Warri South West,Warri South West,939,PPA
+274,Warri South West,Warri South West,394,CDC
+275,Warri South West,Warri South West,99,JP
+276,Warri South West,Warri South West,561,PDP
+277,Warri South West,Warri South West,482,DPP
+278,Warri South West,Warri South West,298,ACN
+279,Warri South West,Warri South West,833,PPA
+280,Warri South West,Warri South West,221,CDC
+281,Warri South West,Warri South West,557,JP
+282,Warri South West,Warri South West,236,PDP
+283,Warri South West,Warri South West,1305,DPP
+284,Warri South West,Warri South West,567,ACN
+285,Warri South West,Warri South West,624,PPA
+286,Warri South West,Warri South West,375,CDC
+287,Warri South West,Warri South West,952,JP
+288,Warri South West,Warri South West,583,ANPP
+289,Warri South West,Warri South West,1012,LABO
